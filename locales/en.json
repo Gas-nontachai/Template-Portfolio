@@ -1,0 +1,14 @@
+{
+    "home": {
+        "welcome": "Transaction Confirmation",
+        "description": "Please review and confirm before proceeding with the deletion."
+    },
+    "about": {
+        "title": "Secure Transaction",
+        "description": "Ensure the accuracy of your actions before confirming the deletion."
+    },
+    "contact": {
+        "title": "Finalize Your Action",
+        "description": "Double-check the details before proceeding with this deletion."
+    }
+}
